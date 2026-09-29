@@ -1,0 +1,27 @@
+{
+  "name": "ROVMART — Modern Fashion Store",
+  "short_name": "ROVMART",
+  "id": "./",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f2ed",
+  "theme_color": "#141412",
+  "description": "ROVMART — modern everyday fashion essentials in Bangladesh.",
+  "lang": "en-BD",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
