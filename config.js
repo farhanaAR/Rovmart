@@ -3,7 +3,7 @@ const CONFIG = Object.freeze({
   BRAND_NAME: "ROVMART",
   SITE_URL: "https://mdparvezmussaruf.github.io/Rovmart2.0",
   OG_IMAGE: "https://mdparvezmussaruf.github.io/Rovmart2.0/assets/og-image.png",
-  GOOGLE_SCRIPT_URL: "https://script.google.com/macros/s/AKfycby3lKr5Ndu_4eVoogoOAKDsJb-yf8Kd-ppRFDnWNJRv7n2Nt-9IiQEQN3xP9al9JTAz/exec",
+  GOOGLE_SCRIPT_URL: "https://script.google.com/macros/s/AKfycbxAU3HZmkG3ZfV6Ea5d3obSwv1bYNqPO5tknxkobW76gkz-V35661BvhL8rXBrmtr1k/exec",
   CURRENCY_SYMBOL: "৳",
   DELIVERY_CHARGES: Object.freeze({ inside: 50, outside: 100 }),
   MAX_CART_QUANTITY: 99,
